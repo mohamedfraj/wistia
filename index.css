@@ -1,0 +1,224 @@
+body{
+    background-color:pink;
+    color:white;
+    margin: 0px;
+}
+.img{   
+width: 50px;
+height:45px;
+border: 1px solid pink;
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+}
+.titre{
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start; 
+    width: 50%;
+}
+.btn{
+    width: 120px; 
+    height:45px;
+    background:blue;
+    color: white;
+    border-radius:10px; 
+}
+.btn1{
+    width: 105px; 
+    height:45px;
+    background:white;
+    color:black;
+    border-radius:10px;
+    border-color:white;
+}
+#btn{
+    justify-content: space-between;
+}
+#paragraph{
+    color: black;
+    display:flex;
+    align-items:center;
+    border: 50px;
+    border-color:red
+}
+.btn2{
+ 
+    background:rgb(255, 255, 255);
+    color:black;
+    border-radius:10px;
+    border-color:white;
+    width: 200px;
+    height:70px; 
+    font-size: 20px;
+}
+main{
+    display: flex;
+    justify-content: space-between
+}
+.prag-video{
+    margin-top: 10%;
+    margin-left: 8%;
+}
+.wistia-card{
+    background:rgb(254, 210, 74);
+    
+}
+.parag-wistia{
+color:black;
+font-family: cursive;
+}
+.btn{
+
+   color:black;
+   border-radius: 10px;
+   border-color:white;
+   width: 200px;
+   height:50px;
+   font-family: cursive;
+   font-size: 100%;
+}
+.btn:hover{
+    background-color:white;
+}
+svg{
+    width: 10%;
+}
+    .soapbox-card{
+    background:rgb(81, 194, 159);
+  
+    }
+    .parag-soapbox{
+    color:black;
+    font-family: cursive;
+    }
+   
+       .Grow-card{
+        background:rgb(62, 169, 245);
+        
+        }
+        .parag-grow{
+        color:black;
+        font-family: cursive;
+        }
+        
+.container{
+    display: flex;
+   
+}       
+.one{
+    background: rgb(254, 210, 74);
+}
+.two{
+    background: rgb(81, 194, 159);
+    margin-top: 2%;
+}
+
+.three{
+    background: rgb(62, 169, 245);
+    margin-top: 10%;
+}
+.wistia-proud{
+color:#8CA9B7;
+font-family:Georgia;
+font-size:20px;
+}
+
+.block-wistia-proud{
+    background-color:white; 
+    display:flex;  
+    padding:8% 1%;
+  
+}
+
+.jsx-1386938491{
+    width: 10%;
+    margin: 1% 3%;
+}
+
+.brand-text{
+    width:50%;
+}
+
+.jsx-433131013{
+    width:81%;
+}
+
+.org-series{
+color: black;
+display: flex;
+font-size:19px;
+}
+.ex-series{
+  color:#2a2d35;
+  font-size: 16px;
+  font-family:cursive;
+}
+.lien{
+    font-style: inherit;
+    font-family: 'Mali', cursive;
+}
+.or-wistia-taking{
+    background-color:white; 
+    display: flex;
+    justify-content: center;
+    padding-left:90px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.weve{
+background-color: #EFEFEF;
+color:black;
+display: flex;
+justify-content: center;
+font-size: 20px;
+font-family: 'Mali', cursive;
+padding:30px
+}
+.footer{
+    background-color:#0c0c0c;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 20px
+}
+.FLTI{
+    font-size: 30px;
+    font-family:  'Fjalla One', sans-serif;
+}
+.FLTI-1{
+    font-family:  'Fjalla One', sans-serif;  
+}
+.sous-titre{
+    font-size:15px;
+    color: #9CA8B7;
+}
+.s-titre{
+    font-family:'Mali', cursive; 
+}
+.cfa{
+    color: #3EA9F5;
+}
+.iff{
+    color:#FD9786;
+}
+.final-page{
+    background-color: #0c0c0c;
+    color: #9CA8B7;
+    display: flex;
+    justify-content: center;
+    padding:30px;
+    
+}
+
+.jsx-3779653094{
+    width: 70%;
+}
+
+
+
+
+
+       
+    
